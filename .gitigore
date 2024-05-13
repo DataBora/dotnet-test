@@ -72,3 +72,6 @@ _ReSharper*/
 # Rider
 .idea/
 *.sln.iml
+
+# Application specific files
+appsettings.json
